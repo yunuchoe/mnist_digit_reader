@@ -1,0 +1,8 @@
+.upload-file{
+    width: 350px;
+    height: 250px;
+    place-self: center;
+    background-image: linear-gradient(225deg, #bcb2b21d, #bcb2b2e1);
+    border-radius: 16px;
+    padding: 12px;
+}
